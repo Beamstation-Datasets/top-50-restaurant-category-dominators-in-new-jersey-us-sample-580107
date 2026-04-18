@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 49 records |
 | Free sample size | 4 records (8.16%) |
-| Last export | 2026-04-07T16:32:05.823194+00:00 |
+| Last export | 2026-04-14T22:24:55.819861+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-new-jersey-us-sample-580107/releases/download/sample-latest/beamstation_580107_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
