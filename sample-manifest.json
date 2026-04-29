@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d7774329-6d8f-4f97-9db1-927876bb03f3",
+  "export_job_id": "cd7deed1-8236-42aa-a8e6-8099ea01112e",
   "id_short": 580107,
-  "published_at": "2026-04-22T07:41:14Z",
+  "published_at": "2026-04-29T07:45:18Z",
   "repo_name": "top-50-restaurant-category-dominators-in-new-jersey-us-sample-580107",
   "sample_asset_name": "beamstation_580107_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/580107/beamstation_580107_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "27ca9fa5aee2b18035d260b48d95f119f9082a92cd4c38a1ae436504e4e295a9",
-  "sample_size_bytes": 54936,
-  "total_records": 94
+  "sample_records": 5,
+  "sample_sha256": "aa9ed67e58815bfd1ce1a7f513de839ebebeefe7b8adc024a64656e7d6f41ae0",
+  "sample_size_bytes": 37569,
+  "total_records": 52
 }
