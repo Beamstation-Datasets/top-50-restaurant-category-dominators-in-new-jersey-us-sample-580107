@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in New Jersey, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `580107` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 94 records |
-| Free sample size | 9 records (9.57%) |
-| Last export | 2026-04-22T01:25:20.833840+00:00 |
+| Full dataset size | 52 records |
+| Free sample size | 5 records (9.62%) |
+| Last export | 2026-04-29T04:30:36.246383+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-new-jersey-us-sample-580107/releases/download/sample-latest/beamstation_580107_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
